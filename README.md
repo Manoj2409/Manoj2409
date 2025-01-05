@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoj2409&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj2409"/> </p>  
   
-- 👨‍💻 All of my projects are available at [https://github.com/Manoj2409](https://github.com/Manoj2409)  
+- 👨‍💻 All of my projects are available at [here](https://github.com/Manoj2409?tab=repositories)  
   
 - 💬 Ask me about **Test Automation**  
   
