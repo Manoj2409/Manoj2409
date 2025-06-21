@@ -15,10 +15,10 @@
 </p>  
   
 
-<br>
+</br>
 
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj2409&theme=dark&layout=compact&align=right&width=40%)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj2409&layout=compact&align=right&width=40%)
  
  ---
 
